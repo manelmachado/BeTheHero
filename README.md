@@ -28,4 +28,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 
 ## Projeto
-
+ Projeto desenvolvido na Semana Omnistack 11.0 ministrada pela Rocketseat utilizando as tecnologias Node.js, React e React Native. 
+ Foram desenvolvidas uma versão web e uma versão mobile do app assim como o backend em Node.js
